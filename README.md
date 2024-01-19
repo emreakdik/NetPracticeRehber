@@ -1,5 +1,5 @@
-# NetPractice Rehberi
 Rehber normalde farklı dillerdeydi ve çevirisini yaptım fakat pull request'im bir ay boyunca kabul almayınca çevirimi kendim paylaştım. Keyfini çıkarın
+# NetPractice Rehberi
 ![netpractice logo](img/NetPractice.png)
 <div id="top"></div>
 
